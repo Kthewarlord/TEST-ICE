@@ -8,6 +8,8 @@ Hello from KP2
 
 Hello again from MP
 
+ສວິສດີ
+
 123
 
 Goodbye World!
